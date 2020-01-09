@@ -19,7 +19,7 @@ The package will do the following things:
 	```
 	alias mean="/Applications/Media"
 	alias media="/Applications/Media"
-```
+	```
 This will allow you to run **MeanSchool** just by typing ```mean``` or ```media``` inside your terminal.
 
 ### How to use
