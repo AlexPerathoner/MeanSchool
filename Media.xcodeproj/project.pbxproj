@@ -30,6 +30,7 @@
 		FAAFAA6523C7D1CA00E71ADF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FAAFAA6623C7D1CA00E71ADF /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		FAAFAA6A23C7D31E00E71ADF /* MeanIcon2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MeanIcon2.png; sourceTree = "<group>"; };
+		FAAFAA6C23C7D77600E71ADF /* Example.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Example.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		FAAFAA6923C7D31E00E71ADF /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				FAAFAA6C23C7D77600E71ADF /* Example.png */,
 				FAAFAA6A23C7D31E00E71ADF /* MeanIcon2.png */,
 			);
 			path = Resources;
