@@ -29,6 +29,7 @@
 		FA9E6B1D23A3FCF80020758A /* ScoreConverter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreConverter.swift; sourceTree = "<group>"; };
 		FAAFAA6523C7D1CA00E71ADF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FAAFAA6623C7D1CA00E71ADF /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		FAAFAA6A23C7D31E00E71ADF /* MeanIcon2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MeanIcon2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +48,7 @@
 			children = (
 				FAAFAA6623C7D1CA00E71ADF /* LICENSE */,
 				FAAFAA6523C7D1CA00E71ADF /* README.md */,
+				FAAFAA6923C7D31E00E71ADF /* Resources */,
 				FA9E6B1523A3F5D40020758A /* Media */,
 				FA9E6B1423A3F5D40020758A /* Products */,
 			);
@@ -67,6 +69,14 @@
 				FA9E6B1D23A3FCF80020758A /* ScoreConverter.swift */,
 			);
 			path = Media;
+			sourceTree = "<group>";
+		};
+		FAAFAA6923C7D31E00E71ADF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FAAFAA6A23C7D31E00E71ADF /* MeanIcon2.png */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
