@@ -39,8 +39,3 @@ You'll now be asked to insert all the marks. As we said before marks can also be
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
----
-Donations are welcome!
-
-[![Donate-Paypal](https://img.shields.io/badge/donate-paypal-yellow.svg?style=flat)](https://paypal.me/AlexanderPerathoner)
